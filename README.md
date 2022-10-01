@@ -6,10 +6,10 @@
   
   construção de um site feita apenas com HTML e CSS com propósitos de estudo.
  
- ## ✔️Tecnologias utilizadas:
+ ## ✔️<h4>Tecnologias utilizadas:<h4>
  
  - ``HTML5``
  - ``CSS3``
-
-![GitHub Org's stars](https://img.shields.io/github/stars/Feehh32?style=social)
+  
+ 
 
