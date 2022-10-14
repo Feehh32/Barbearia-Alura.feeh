@@ -1,6 +1,6 @@
 <h1 align="center">Barbearia-Alura.feeh<h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge completo](http://img.shields.io/static/v1?label=STATUS&message=Completo&color=GREEN&style=for-the-badge)
 
 ## Propósito do projeto:
   
